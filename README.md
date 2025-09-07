@@ -1,2 +1,2 @@
 # angry-baby-ghast-addon-source-code
-read readme
+this is the source code of my addon cursforge link in the release
