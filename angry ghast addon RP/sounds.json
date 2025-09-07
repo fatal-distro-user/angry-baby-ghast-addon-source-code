@@ -1,0 +1,24 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"bridge:angry_ghast": {
+				"events": {
+					"ambient": "mob.angry_ghast.moan",
+					"death": "mob.angry_ghast.death",
+					"hurt": "mob.angry_ghast.scream",
+					"scream": "mob.angry_ghast.affectionate_scream",
+					"shoot": {
+						"sound": "mob.angry_ghast.fireball",
+						"volume": 0.7
+					},
+					"warn": "mob.angry_ghast.charge"
+				},
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"volume": 600
+			}
+		}
+	}
+}

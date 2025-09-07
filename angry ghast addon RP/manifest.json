@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"bridge."
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.50"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "angry ghast addon",
+		"description": "now with this addon there are drieg ghast ghastling happy ghasts and now angry ghast",
+		"min_engine_version": [
+			1,
+			21,
+			90
+		],
+		"uuid": "aefb7044-fcb8-46bd-aa5e-ec018c7737d8",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "b540fa06-2e14-4dde-b8b1-b31982ed0e1b",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "de74515b-4a21-4e8b-908c-472327af0228",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

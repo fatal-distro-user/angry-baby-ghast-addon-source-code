@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "angry ghast addon",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"bridge_screaming_blood_tear_drop": {
+			"textures": "textures/items/pixil-frame-0"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "bridge:angry_ghast",
+			"materials": {
+				"default": "ghast"
+			},
+			"textures": {
+				"default": "textures/entity/angry_ghast/angry_ghast",
+				"shooting": "textures/entity/angry_ghast/angry_ghast_shooting"
+			},
+			"geometry": {
+				"default": "geometry.angry_ghast"
+			},
+			"spawn_egg": {
+				"base_color": "#000000",
+				"overlay_color": "#FFFFFF"
+			},
+			"animations": {
+				"move": "animation.angry_ghast.move",
+				"scale": "animation.angry_ghast.scale"
+			},
+			"animation_controllers": [
+				{
+					"move": "controller.animation.angry_ghast.move"
+				},
+				{
+					"scale": "controller.animation.angry_ghast.scale"
+				}
+			],
+			"render_controllers": [
+				"controller.render.angry_ghast"
+			]
+		}
+	}
+}

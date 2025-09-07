@@ -1,0 +1,110 @@
+{
+	"format_version": "1.14.0",
+	"sound_definitions": {
+		"mob.angry_ghast.affectionate_scream": {
+			"__use_legacy_max_distance": "true",
+			"category": "hostile",
+			"min_distance": 100,
+			"sounds": [
+				{
+					"name": "sounds/mob/ghast/affectionate_scream",
+					"volume": 0.5
+				}
+			]
+		},
+		"mob.angry_ghast.charge": {
+			"__use_legacy_max_distance": "true",
+			"category": "hostile",
+			"min_distance": 100,
+			"sounds": [
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/ghast/charge",
+					"volume": 0.5
+				}
+			]
+		},
+		"mob.angry_ghast.death": {
+			"__use_legacy_max_distance": "true",
+			"category": "hostile",
+			"min_distance": 100,
+			"sounds": [
+				{
+					"name": "sounds/mob/ghast/death",
+					"volume": 0.5
+				}
+			]
+		},
+		"mob.angry_ghast.fireball": {
+			"__use_legacy_max_distance": "true",
+			"category": "hostile",
+			"sounds": [
+				"sounds/mob/ghast/fireball4"
+			]
+		},
+		"mob.angry_ghast.moan": {
+			"__use_legacy_max_distance": "true",
+			"category": "hostile",
+			"min_distance": 100,
+			"sounds": [
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/ghast/moan1",
+					"volume": 0.5
+				},
+				{
+					"name": "sounds/mob/ghast/moan2",
+					"volume": 0.5
+				},
+				{
+					"name": "sounds/mob/ghast/moan3",
+					"volume": 0.5
+				},
+				{
+					"name": "sounds/mob/ghast/moan4",
+					"volume": 0.5
+				},
+				{
+					"name": "sounds/mob/ghast/moan5",
+					"volume": 0.5
+				},
+				{
+					"name": "sounds/mob/ghast/moan6",
+					"volume": 0.5
+				},
+				{
+					"name": "sounds/mob/ghast/moan7",
+					"volume": 0.5
+				}
+			]
+		},
+		"mob.angry_ghast.scream": {
+			"__use_legacy_max_distance": "true",
+			"category": "hostile",
+			"min_distance": 100,
+			"sounds": [
+				{
+					"name": "sounds/mob/ghast/scream1",
+					"volume": 3.0
+				},
+				{
+					"name": "sounds/mob/ghast/scream2",
+					"volume": 3.0
+				},
+				{
+					"load_on_low_memory": true,
+					"name": "sounds/mob/ghast/scream3",
+					"volume": 3.0
+				},
+				{
+					"name": "sounds/mob/ghast/scream4",
+					"volume": 3.0
+				},
+				{
+					"name": "sounds/mob/ghast/scream5",
+					"volume": 3.0
+				}
+			]
+		}
+	}
+}
